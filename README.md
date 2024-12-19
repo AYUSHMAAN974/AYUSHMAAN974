@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushmaan Gupta</h1>
 <h3 align="center">A passionate learner and developer from India</h3>
 <hr>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" align="center">
+<img align="center" alt ="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmaan974" alt="ayushmaan974" /></a> </p>
 
